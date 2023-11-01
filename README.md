@@ -5,6 +5,7 @@ The following screenshots is me creating the virtual machine that will be used a
 ![Honeypot1](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/8efcdc9b-c1c9-4114-80f7-0f0dac6911fa)
 ![Honeypot2](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/152da059-d30c-43be-a50f-b6906617dc5b)
 ![Honeypot3](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/476cdd90-55c5-4225-b4a8-d61333a1540a)
+
 Setting up the firewall to allow all traffic to go to the virtual machine:
 ![Honeypot4](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/860523c2-6432-4548-b47a-ea57ef603122)
 ![Honeypot5](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/f00347ff-99ad-47c9-ae9b-1b7a20bc8cdc)
