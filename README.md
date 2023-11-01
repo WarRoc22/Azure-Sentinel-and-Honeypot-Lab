@@ -1,5 +1,5 @@
 # Azure-Sentinel-and-Honeypot-Lab
-In this lab I created a honeypot virtual machine and connected it with Microsoft Sentinel. Sentinel then created a map of all the failed login attempts from around the world. For this lab I followed along Josh Madakor: [https://www.youtube.com/watch?v=RoZeVbbZ0o0&list=PLqBeiU46hx1H--SNfTrohTOWeqkK-M2Y0&index=10](url)
+In this lab I created a honeypot virtual machine and connected it with Microsoft Sentinel. In Sentinel, I created a map of all the failed login attempts from around the world. For this lab I followed along Josh Madakor: [https://www.youtube.com/watch?v=RoZeVbbZ0o0&list=PLqBeiU46hx1H--SNfTrohTOWeqkK-M2Y0&index=10](url)
 
 The following screenshots is me creating the virtual machine that will be used as the honeypot:
 ![Honeypot1](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/8efcdc9b-c1c9-4114-80f7-0f0dac6911fa)
@@ -66,9 +66,11 @@ For the sample log, I copied all the data from the failed_rpd file in the Virtua
 ![cl3](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/031f82a8-9914-4445-86a1-2b64e428b952)
 ![cl4](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/1502d9d2-f2dc-4639-919b-fc89cad9158e)
 ![cl5](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/a539ba4f-755b-4205-bb84-bb1c31479c8e)
-Ran the following query to see failed RDP logs:
+I ran the following query to see failed RDP logs:
+
 ![cl6](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/3ba5ee57-f149-46bb-8536-fd41b7852de4)
-Ran the custom log 8 hours later for an updated list of failed login attempts
+I ran the custom log 8 hours later for an updated list of failed login attempts:
+
 ![cl7](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/c7a2276d-fa3d-43f0-b32c-6546642c699a)
 
 
