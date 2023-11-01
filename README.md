@@ -66,6 +66,7 @@ For the sample log, I copied all the data from the failed_rpd file in the Virtua
 ![cl3](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/031f82a8-9914-4445-86a1-2b64e428b952)
 ![cl4](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/1502d9d2-f2dc-4639-919b-fc89cad9158e)
 ![cl5](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/a539ba4f-755b-4205-bb84-bb1c31479c8e)
+
 I ran the following query to see failed RDP logs:
 
 ![cl6](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/3ba5ee57-f149-46bb-8536-fd41b7852de4)
