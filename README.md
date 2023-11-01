@@ -39,7 +39,9 @@ I did a failed login attempt so that it would show in the security log:
 The following screenshots is me pinging the virtual machine:
 I tried pinging the virtual machine but was getting Request timed out:
 ![Pinging1](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/adacd732-df02-4ba7-8344-4ceba93106c7)
+
 I turned off the firewall on the virtual machine. I was able to ping the virtual machine:
+
 ![Pinging2](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/26ac4d79-263c-4952-9c4d-abe42a67fa47)
 ![Pinging3](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/c82f8578-a71c-4b9e-b3c2-1f3287811466)
 ![Pinging4](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/f368ce6d-5055-4613-8ee9-941d8d6f3352)
