@@ -11,6 +11,7 @@ Setting up the firewall to allow all traffic to go to the virtual machine:
 
 
 The following screenshots is me setting up the Log Analytics Workspace. This will allow Sentinel to be able to ingest all event logs from the virtual machine
+
 ![LogAnalytics1](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/dbf374f7-8a80-4fc3-be97-05b9bae3caca)
 ![LogAnalytics2](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/018f2315-2e83-4adb-8106-ca288cf6e24b)
 ![LogAnalytics3](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/31b518c9-208e-47f5-bc3b-c44c8180bae7)
