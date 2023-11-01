@@ -31,6 +31,7 @@ The following screenshots is me logging onto the virtual machince I created:
 ![vm3](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/1d9b4a5c-f7c9-405c-8a80-5d8accaa432c)
 
 I did a failed login attempt so that it would show in the security log:
+
 ![vm6](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/a643d9c8-49c3-4389-82d0-2ec01b076f68)
 ![vm4](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/a6b76fac-2a20-4552-9904-9fb121671ca4)
 ![vm5](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/b53f5180-b0ab-46a1-9915-010f197cb7a0)
