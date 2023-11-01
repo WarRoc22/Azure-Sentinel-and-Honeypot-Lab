@@ -25,6 +25,7 @@ The following screenshot is me creating and adding Sentinel to the workspace I c
 
 
 The following screenshots is me logging onto the virtual machince I created:
+
 ![vm1](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/c2af1003-8a81-425e-baa8-050e87c9aee2)
 ![vm2](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/a0d292e8-9cd0-4914-9917-ca02a32606af)
 ![vm3](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab/assets/148729293/1d9b4a5c-f7c9-405c-8a80-5d8accaa432c)
